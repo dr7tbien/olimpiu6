@@ -20,6 +20,7 @@
 
 
         public function __construct(){
+            //editado
             $this->setCredentials();
             $this->setClientEfs();
             $this->setClassName("CDH_awsAccessPoint");
