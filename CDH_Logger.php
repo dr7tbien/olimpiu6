@@ -2,7 +2,7 @@
 require_once 'defines/CDH_awsDefinesAll.php';
 
 class CDH_Logger{
-	
+	//tesy
 	public function log($mensaje, $fichero = NULL){
 		#hace 5 intentos para escribir el mensaje
 		$ct_intentos = 0;
